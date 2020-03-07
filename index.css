@@ -1,0 +1,48 @@
+body {
+	background: rgba(227,127,11,0.41);
+}
+
+#mainNav .navbar-brand {
+	color: #d48019;
+	font-weight: bold;
+	font-family: Simonetta;
+}
+
+#mainNav {
+	background-image: url(https://ak0.picdn.net/shutterstock/videos/1009668740/thumb/1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#mainNav .nav-link {
+	color: white;
+	font-weight: bold;
+}
+
+h1 {
+	color: #d48019;
+}
+
+#date {
+	color: red;
+	font-family: Lobster;
+}
+
+@media (min-width: 992px) {
+	
+}
+
+/*#location {
+	margin-top: 10rem;
+}
+*/
+/*#one {
+	margin-top: 1rem;
+}*/
+
+#slika {
+	resize: width: 600px; height: 300px;
+	margin-left: 100px;
+}
+
+	
