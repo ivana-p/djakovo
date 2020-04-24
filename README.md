@@ -3,7 +3,6 @@
 
 <head>
 
-	<script type="text/javascript" src="djakovo.js"></script>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
